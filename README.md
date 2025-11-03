@@ -1,4 +1,5 @@
 # 🌍 Global Sales & Profit Dashboard (Tableau)
+"End-to-End Tableau Project on Global Sales & Profit”
 
 ## 📊 Overview
 This interactive **Tableau dashboard** provides a comprehensive analysis of global sales, profit, orders, and discount impact.  
