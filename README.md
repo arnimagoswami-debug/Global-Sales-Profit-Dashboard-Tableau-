@@ -14,7 +14,7 @@ It helps understand business performance by region, category, and customer segme
 - **Average Order Value:** 505  
 - **Return Rate:** 4.7%
 
----
+----
 
 ## 🧩 Dashboard Highlights
 - **Category-wise Profit Contribution:** Pie chart showing profit distribution across Furniture, Office Supplies, and Technology.  
